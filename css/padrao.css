@@ -1,0 +1,32 @@
+header{
+    width: 100%;
+    margin-bottom: 10px;
+    border-bottom: solid 1px rgb(206, 202, 202);
+    text-align: center;
+    background:white;
+}
+
+footer{
+    width: 100%;
+    margin: 10px;
+    border-top: solid 1px rgb(206, 202, 202);
+}
+
+form{
+    border:solid 1px rgb(206, 202, 202);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.liOpcao{
+    cursor: pointer;
+}
+
+.container{ 
+    margin-top: 20px;   
+}
+
+.accordion{
+    margin-top: 10px;
+}
